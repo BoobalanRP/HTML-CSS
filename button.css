@@ -1,0 +1,68 @@
+
+	.btn{
+	
+padding-top: 20px;
+padding-bottom:20px;
+
+padding-left: 30px;
+padding-right: 30px;
+margin-bottom: 3px;
+border-radius:8px;
+border-width:4px;
+}
+.btn-primary{
+
+   background-color: pink;
+   color:blue;
+}
+.btn-secondary{
+	background-color:orange;
+    color:blue;
+	border-style:dotted;
+   }
+ .btn-menu{
+	background-color:blue;
+    color:white;
+	border-color:yellow;
+   }
+ .btn-danger{
+	background-color:yellow;
+    color:red;
+	border-top-right-radius:0px;
+	border-bottom-left-radius:0px;
+   }
+ .btn-success{
+	background-color:green;
+    color:yellow;
+   }
+ .btn-warning{
+	background-color:red;
+    color:white;
+	border-style:dashed;
+	border-color:blue;
+   }
+
+   
+ .btn-alt{
+	 padding: 10px 40px;
+	 border:solid 1px gray;
+	 border-radius:8px;
+ }
+ 
+ 
+ .btn-don
+{
+   
+   background-color:blue;
+   color:white;
+}
+.btn-section
+{
+   background-color: white;
+   color:black;
+}
+.btn-danger
+{
+   background-color: red;
+   color:white;
+}
